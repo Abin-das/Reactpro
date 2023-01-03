@@ -1,0 +1,141 @@
+.tittle {
+  position: absolute;
+  width: 380px;
+  height: 34px;
+  left: 650px;
+  top: 980px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+
+  color: #6b6b6b;
+}
+.stepper1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 327px;
+  height: 137px;
+  left: 379px;
+  top: 1078px;
+
+  background: #ffffff;
+  border: 1px solid #009ff9;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+.txt {
+  margin-left: 115px;
+  margin-top: 51px;
+}
+
+.stepper2 {
+  position: absolute;
+  width: 327px;
+  height: 137px;
+  left: 894px;
+  top: 1078px;
+
+  background: #ffffff;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+.stepper3 {
+  position: absolute;
+  width: 327px;
+  height: 137px;
+  left: 379px;
+  top: 1285px;
+
+  background: #ffffff;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+.stepper4 {
+  position: absolute;
+  width: 327px;
+  height: 137px;
+  left: 904px;
+  top: 1285px;
+
+  background: #ffffff;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+.enter {
+  position: absolute;
+  width: 172px;
+  height: 22px;
+  left: 490px;
+  top: 1514px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #6b6b6b;
+}
+.type {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 624px;
+  height: 50px;
+  left: 488px;
+  top: 1561px;
+
+  border: 1px solid #464646;
+  border-radius: 15px;
+}
+.number {
+  padding-left: 15px;
+  padding-top: 15px;
+  height: 22px;
+  left: 509px;
+  top: 1575px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #6b6b6b;
+}
+.next {
+  position: absolute;
+  width: 624px;
+  height: 63px;
+  left: 490px;
+  top: 1650px;
+
+  background: #009ff9;
+  border-radius: 15px;
+}
+.nexttxt {
+  position: absolute;
+  top: 6px;
+  left: 300px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+
+  color: #ffffff;
+}
+.hai {
+  position: absolute;
+  width: 624px;
+  height: 63px;
+  left: 490px;
+  top: 1750px;
+  border-radius: 15px;
+}
